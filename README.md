@@ -1,4 +1,5 @@
 # HTML Invoice Template
-Simple and Printable invoice template using only html and css.
+
+Simple and Printable invoice template.
 
 ![Screenshot](./screenshot.png)
